@@ -1,45 +1,24 @@
-\begin{titlepage}
-  \begin{center}
-    \large
-    МИНИСТЕРСТВО ОБРАЗОВАНИЯ И НАУКИ\\ РОССИЙСКОЙ ФЕДЕРАЦИИ
+# Лекции по компьютерным технологиям
 
-     \vspace{0.25cm}
+## Выполнено студентами ТД-Б14
 
-    ОБНИНСКИЙ ИНСТИТУТ АТОМНОЙ ЭНЕРГЕТИКИ(ИАТЭ)
-    \vspace{0.25cm}
-    
-    Ядерная физика и технологии
-    
-    \vfill
++ Березуцкая Мария
++ Пыжов Даниил
++Трофименко Елисей
 
-    \textsc{Курсовая работа:}\\[5mm]
-    
-    {\LARGE “Определение местоположения ТВС с негерметичным ТВЭЛ \\
-      в активной зоне БН-600 методом перекомпенсации нейтронного поля” \\ (Вариант №2)\\[2mm]}    
-\end{center}
-\vfill
+## Cодержание
 
-\newlength{\ML}
-\settowidth{\ML}{«\underline{\hspace{0.7cm}}» \underline{\hspace{2cm}}}
-\hfill\begin{minipage}{0.4\textwidth}
-  Выполнили студенты гр. ТД-Б14:\\
-    М.\,А.~Березуцкая\\
-    Д.\,А.~Пыжов\\
-    Е.\,С.~Трофименко\\
-\end{minipage}%
-\bigskip
-
-\hfill\begin{minipage}{0.4\textwidth}
-  Проверил: \\
-  д.т.н. профессор\ А.\,О.~Скоморохов\\
-\end{minipage}%
-\vfill
-
-\begin{center}
-  Обнинск, 2017 г.
-\end{center}
-\end{titlepage}
-
++ Markdown
++ Bazaar
++ Cygwin
++ Freemind
++ Ggobi
++ Github
++ Gnuplot
++ JabRef
++ Maxima
++ Pandoc
++SciDaVis
 
 ## Markdown
 
